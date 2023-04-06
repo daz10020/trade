@@ -1,0 +1,613 @@
+{
+  "nightCodes": {
+    "size": 51,
+    "datas": [
+      {
+        "market": 113,
+        "name": "沪铜",
+        "code": "cu",
+        "type": 1,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 142,
+        "name": "国际铜",
+        "code": "bc",
+        "type": 4,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪铝",
+        "code": "al",
+        "type": 2,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪锌",
+        "code": "zn",
+        "type": 3,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪铅",
+        "code": "pb",
+        "type": 4,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪金",
+        "code": "au",
+        "type": 5,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0230,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪银",
+        "code": "ag",
+        "type": 6,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0230,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "螺纹钢",
+        "code": "rb",
+        "type": 7,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "线材",
+        "code": "wr",
+        "type": 8,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "燃油",
+        "code": "fu",
+        "type": 9,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "橡胶",
+        "code": "ru",
+        "type": 10,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "石油沥青",
+        "code": "bu",
+        "type": 11,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "热轧卷板",
+        "code": "hc",
+        "type": 12,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪镍",
+        "code": "ni",
+        "type": 13,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "沪锡",
+        "code": "sn",
+        "type": 14,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "纸浆",
+        "code": "sp",
+        "type": 15,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 113,
+        "name": "不锈钢",
+        "code": "ss",
+        "type": 16,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0100,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "玉米",
+        "code": "c",
+        "type": 1,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "豆一",
+        "code": "a",
+        "type": 2,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "豆二",
+        "code": "b",
+        "type": 3,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "豆粕",
+        "code": "m",
+        "type": 4,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "豆油",
+        "code": "y",
+        "type": 5,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "棕榈油",
+        "code": "p",
+        "type": 6,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "聚乙烯",
+        "code": "l",
+        "type": 7,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "聚氯乙烯",
+        "code": "v",
+        "type": 8,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "焦炭",
+        "code": "j",
+        "type": 9,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "焦煤",
+        "code": "jm",
+        "type": 10,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "纤维板",
+        "code": "fb",
+        "type": 11,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "胶合板",
+        "code": "bb",
+        "type": 12,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "铁矿石",
+        "code": "i",
+        "type": 13,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "鸡蛋",
+        "code": "jd",
+        "type": 14,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "聚丙烯",
+        "code": "pp",
+        "type": 15,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "玉米淀粉",
+        "code": "cs",
+        "type": 16,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "乙二醇",
+        "code": "eg",
+        "type": 17,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "粳米",
+        "code": "rr",
+        "type": 18,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "苯乙烯",
+        "code": "eb",
+        "type": 19,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "LPG",
+        "code": "pg",
+        "type": 20,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 114,
+        "name": "生猪",
+        "code": "lh",
+        "type": 21,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "强麦",
+        "code": "wh",
+        "type": 1,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "普麦",
+        "code": "pm",
+        "type": 2,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "棉花",
+        "code": "cf",
+        "type": 3,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "白糖",
+        "code": "sr",
+        "type": 4,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "PTA",
+        "code": "ta",
+        "type": 5,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "短纤",
+        "code": "pf",
+        "type": 23,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "菜油",
+        "code": "oi",
+        "type": 6,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "早籼稻",
+        "code": "ri",
+        "type": 7,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "甲醇",
+        "code": "ma",
+        "type": 8,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "玻璃",
+        "code": "fg",
+        "type": 9,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "菜籽",
+        "code": "rs",
+        "type": 10,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "菜粕",
+        "code": "rm",
+        "type": 11,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "粳稻",
+        "code": "jr",
+        "type": 13,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "晚籼稻",
+        "code": "lr",
+        "type": 14,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "硅铁",
+        "code": "sf",
+        "type": 15,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "锰硅",
+        "code": "sm",
+        "type": 16,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "动力煤",
+        "code": "zc",
+        "type": 17,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "棉纱",
+        "code": "cy",
+        "type": 18,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "苹果",
+        "code": "ap",
+        "type": 19,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "红枣",
+        "code": "cj",
+        "type": 20,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "花生",
+        "code": "pk",
+        "type": 24,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "尿素",
+        "code": "ur",
+        "type": 21,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 115,
+        "name": "纯碱",
+        "code": "sa",
+        "type": 22,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 142,
+        "name": "原油",
+        "code": "sc",
+        "type": 1,
+        "tradeType": 1,
+        "tradeTime": "2100-2400,0000-0230,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 142,
+        "name": "20号胶",
+        "code": "nr",
+        "type": 2,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 142,
+        "name": "低硫燃油",
+        "code": "lu",
+        "type": 3,
+        "tradeType": 1,
+        "tradeTime": "2100-2300,0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 8,
+        "name": "股指",
+        "code": "ih,if,ic,im",
+        "type": 168,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1500"
+      },
+      {
+        "market": 8,
+        "name": "国债",
+        "code": "ts,tf,t",
+        "type": 169,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1515"
+      },
+      {
+        "market": 220,
+        "name": "上证50",
+        "code": "ih",
+        "type": 3,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1500"
+      },
+      {
+        "market": 220,
+        "name": "沪深300",
+        "code": "if",
+        "type": 2,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1500"
+      },
+      {
+        "market": 220,
+        "name": "中证500",
+        "code": "ic",
+        "type": 1,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1500"
+      },
+      {
+        "market": 220,
+        "name": "中证1000",
+        "code": "im",
+        "type": 7,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1500"
+      },
+      {
+        "market": 220,
+        "name": "2年国债",
+        "code": "ts",
+        "type": 6,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1515"
+      },
+      {
+        "market": 220,
+        "name": "5年国债",
+        "code": "tf",
+        "type": 5,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1515"
+      },
+      {
+        "market": 220,
+        "name": "10年国债",
+        "code": "t",
+        "type": 4,
+        "tradeType": 0,
+        "tradeTime": "0930-1130,1300-1515"
+      },
+      {
+        "market": 225,
+        "name": "工业硅",
+        "code": "si",
+        "type": 1,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      },
+      {
+        "market": 225,
+        "name": "中证指数",
+        "code": "ci",
+        "type": 2,
+        "tradeType": 0,
+        "tradeTime": "0900-1015,1030-1130,1330-1500"
+      }
+    ]
+  },
+  "loginDesc": "",
+  "passwordDesc": "交易密码至少8位，包含数字、字母或特殊字符",
+  "socketConfig": {
+    "wsUrl": "ws",
+    "brokerId": "9099"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "cachePolicy": "remote-first",
+  "cacheMaxAge": 604800,
+  "metadata": {
+    "mainComponent": "EMApp",
+    "preventAutoHideSplashScreen": false,
+    "preventResetStatusBar": false
+  }
+}

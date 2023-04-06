@@ -1,0 +1,4 @@
+#Mon Jul 06 11:31:22 CST 2020
+base.0=D\:\\workspace\\rn\\WapDemo\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
